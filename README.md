@@ -1,4 +1,41 @@
-# Boegle
+# Meesterproef Emiel 
+The past five weeks we've created a great application. First of all I want to give some credit to my team [Desley](https://github.com/DesleyAalderink), [Victor](github.com/velomovies) and [Chana](https://github.com/niyorn) for the amazing time and hard work. Enough about them. What did i do?
+
+## Week one
+Aventually Desley and me wanted to work together. We did somem brainstorming and concepting together. But because We, Chana and Victor sat in the same room together. We figured that it won't harm anyone to brainstorm together. We did this to create more ideas. Around Thursday we decided to merge everyone together in one team called Boogle. We did this because all our ideas looked alike.
+
+## Week two
+In this week we made great steps. We did alot of research on the user, the api and the endless possibilities. We made designs (the're shown in the process-book). We also set "learning goals" for ourselfs. We decited to all work on our weaker points.
+My "Learning goals" were :
+ - Learning to gain better understanding in CSS
+   - Using CSS Variables
+   - Using CSS Transitions
+   - Using CSS Animations
+   - Using less CSS
+ - Learning more about ES6
+   - Arrow functions
+   - modules
+   - for each
+   - object oriented programming
+ - Learning github
+   - Big team projects
+   - Solving merge-conflicts
+   - Learning the flow
+ - Research
+   - Stop using W3Schools as source
+   
+After we all wrote down our learning goals. We gave everyone individual tasks. I was responsible for:
+ - Company style
+ - Animations
+ - CSS
+ - JS Parser (we scrapped that idea later on the project)
+ 
+ In week two I did alot of research on CSS. I've watched videos about 60fps animations and how to animate. Also I've browsed alot on codepen to get information and inspiration out of the projects I saw. While looking at these projects I learned alot about "perspective, transform-origin, "will-transform" and 3D Css". 
+ 
+
+
+
+# Boegle Team Report
 Amsterdam OBA | To search a book
 ![A demo of the OBA searchbook](readme_assets/application-introduction-v1.gif)
 
