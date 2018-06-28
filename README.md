@@ -1,8 +1,12 @@
 # Meesterproef Emiel 
-The past five weeks we've created a great application. First of all I want to give some credit to my team [Desley](https://github.com/DesleyAalderink), [Victor](github.com/velomovies) and [Chana](https://github.com/niyorn) for the amazing time and hard work. Enough about them. What did i do?
+The past five weeks we've created a great application. First of all I want to give some credit to my team [Desley](https://github.com/DesleyAalderink), [Victor](github.com/velomovies) and [Chana](https://github.com/niyorn) for the amazing time and hard work. If I look back at these five weeks, I'd say I was the team leader. I took alot of initiatives to plan and host meetings, get everyone together to talk about what went well and what went wrong. When Mark came to see our project for the first time I presented it to him and was presented by the team to take the lead while talking with the Oba-press. Fortunately everyone felt comfortable enough to speak up when they disagreed on something and we as a team would discuss the posibilities. 
+
+You're going to notice me writing alot about the team in these next few chapters. That is because we did so much with the team. Some of us did stuf together or helped eachother out when they were stuck. No-one did one particular thing.
 
 ## Week one
 Aventually Desley and me wanted to work together. We did somem brainstorming and concepting together. But because We, Chana and Victor sat in the same room together. We figured that it won't harm anyone to brainstorm together. We did this to create more ideas. Around Thursday we decided to merge everyone together in one team called Boogle. We did this because all our ideas looked alike.
+
+As a team we thought about our first concept. What should be in it and why. We used the MoSCoW technique to prioritise what needed to be done
 
 ## Week two
 In this week we made great steps. We did alot of research on the user, the api and the endless possibilities. We made designs (the're shown in the process-book). We also set "learning goals" for ourselfs. We decited to all work on our weaker points.
@@ -29,11 +33,29 @@ After we all wrote down our learning goals. We gave everyone individual tasks. I
  - Animations
  - CSS
  - JS Parser (we scrapped that idea later on the project)
- 
- In week two I did alot of research on CSS. I've watched videos about 60fps animations and how to animate. Also I've browsed alot on codepen to get information and inspiration out of the projects I saw. While looking at these projects I learned alot about "perspective, transform-origin, "will-transform" and 3D Css". 
- 
 
+When we were finally done with thinking about "learning goals", We made designs. Each and everyone of us had to design the website to his likings. 
 
+Because our time exited out of four men, we needed a particular set of coding conventions on wich we all felt comfortable using. 
+
+In week two I did alot of research on CSS. I've watched videos about 60fps animations and how to animate. Also I've browsed alot on codepen to get information and inspiration out of the projects I saw. While looking at these projects I learned alot about "perspective, transform-origin, "will-transform" and 3D Css". 
+ 
+<img src="https://github.com/muise001/Boegle/blob/develop/readme_assets/IMG_9530.jpg" alt="Research on 60fps animations">
+
+I Also leaned that drawing the thing you want to animate from state-to-state helps you understand how it should work. By drawing and looking carefully to the picture you see what changes in the state
+
+<img src="https://github.com/muise001/Boegle/blob/develop/readme_assets/IMG_9529.jpg" alt="a sketch of the loader design">
+
+## Week three
+In the third week of our project we finally get to meet Mark. Mark is the client for whom we're creating this product. I made a presentation to inform Mark about all the progress we already made during the past two weeks. Also I was experimenting with more and more animations. I made the animations of the homepage for the book, the sidemenu and the loader. 
+
+![early version of the Zoek 'n Boek application](readme_assets/earlyVersion.PNG)
+
+Also I had this big argument with Victor about what should be the content of the book and why. My vision was that the form on the sites homepage should follow the patterns of a physical book. Victor thought that it would be better to make the form more like the web-pattern of filling in a form. A ferm and long discussion followed. Offcourse this was all friendly with a touch of passive-agressive-ness.
+
+## Week four
+
+In week four I styled the form. It had to be more "booky". That was actually the word we used for it. 
 
 # Boegle Team Report
 Amsterdam OBA | To search a book
