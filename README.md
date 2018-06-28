@@ -111,6 +111,26 @@ Week five was bug-fixing week. We all took alot of time to fix and create bugs. 
 
 ![Mobile version](readme_assets/boegle-mobile.gif)
 
+#### Promoting Boegle
+##### Boegle the movie
+For weeks we wanted to create a product-video. We figured that on Wednesday we'd had some free-time. So i reached out to a local studio :
+>Geachte medewerker van studio Automat,
+>
+>Afgelopen weken ben ik met een klein groepje mensen bezig geweest om een nieuwe zoekmachine te bouwen voor de OBA. Deze zoekmachine is nu zo goed als af. Aankomende woensdag gaan we deze presenteren op de HvA voor docenten, begeleiders en de opdrachtgevers van de OBA. We zitten er zelfs aan te denken om onze applicatie op te geven voor de "golden dot awards".
+>
+>De reden dat ik jullie mail is om te vragen of jullie ons willen helpen om de presentatie van ons leven neer te zetten. Het lijkt ons geweldig om jullie prachtige studio te gebruiken om een productvideo in op te nemen. De laatste waarop we dit ?kunnen doen is aanstaande woensdag. We verwachten een uur of twee bezig te zijn. Uiteraard zullen we alles netjes opruimen.
+>
+>Graag horen wij snel van jullie. En wensen we jullie een hele fijne dag.
+>
+>Met vriendelijke groet,
+>
+>Emiel Muis
+
+Within minutes I recieved an email back. It was possible to shoot a video there. I rushed to the drawingboard and drew a storyboard (wich can be found in my process-book). After learning the script we shot the video. Victor fortunately is very advanced in camera use and editing. Desley drove Victor around on a little trolly and I did the acting. I'm very pleased with the result. 
+
+##### Boegle on a poster
+That same day we created posters to market our product. These can be found on the bottom of this page.
+
 # Boegle Team Report
 Amsterdam OBA | To search a book
 ![A demo of the OBA searchbook](readme_assets/application-introduction-v1.gif)
