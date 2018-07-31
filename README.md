@@ -1,6 +1,6 @@
 #### links
 
-**The Site***
+**The Site**
  - [Check the Site!](boegle.herokuapp.com)
 
 **Published articles on Boegle**
