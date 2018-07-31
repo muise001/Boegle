@@ -1,8 +1,8 @@
-[see the site!](boegle.herokuapp.com)
+[Check the Site!](boegle.herokuapp.com)
 
 **Published articles on Boegle**
-[On the Oba Site](https://www.oba.nl/nieuws/meesterproef2018.html)
-[On the HvA news site](https://hvana.nl/lees/5452/studenten-maken-een-google-voor-boeken-en-historisch-amsterdam)
+ - [On the Oba Site](https://www.oba.nl/nieuws/meesterproef2018.html)
+ - [On the HvA news site](https://hvana.nl/lees/5452/studenten-maken-een-google-voor-boeken-en-historisch-amsterdam)
 
 # Meesterproef Emiel 
 The past five weeks we've created a great application. First of all I want to give some credit to my team [Desley](https://github.com/DesleyAalderink), [Victor](github.com/velomovies) and [Chana](https://github.com/niyorn) for the amazing time and hard work. If I look back at these five weeks, I'd say I was the team leader. I took alot of initiatives to plan and host meetings, get everyone together to talk about what went well and what went wrong. When Mark came to see our project for the first time I presented it to him and was presented by the team to take the lead while talking with the Oba-press. Fortunately everyone felt comfortable enough to speak up when they disagreed on something and we as a team would discuss the posibilities. 
